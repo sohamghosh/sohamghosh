@@ -10,11 +10,13 @@
 	        		<li><a href="/">Home</a></li>
 	    		</ul>
 			</nav>
+			<p/>
 			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
+				<h2>{{ page.title }}</h2>
+				<hr/>
+				{{ content }}
+			</div>
+			<br/>
 			<footer>
 	    		<ul>
 	        		<li><a href="https://github.com/sohamghosh/sohamghosh">Github</a></li>
