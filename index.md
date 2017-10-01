@@ -7,7 +7,7 @@ Soham Ghosh is one of the promoters-directors of the civil-works contracting com
 
 Prior to joining the infrastructure industry, he had worked in the information technology industry for 11 years. 
 
-Soham Ghosh holds a B.Tech degree in Electronics & Communication Engineering from National Institute of Technology, Calicut in Kerala, India.
+Soham Ghosh holds a B.Tech degree in Electronics & Communication Engineering from [National Institute of Technology, Calicut](http://www.nitc.ac.in) in Kerala, India.
 
 He can be reached at [sohamghosh@gmail.com](mailto: sohamghosh@gmail.com).
 
