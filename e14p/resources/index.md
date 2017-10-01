@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources
-permalink: /e14p/:title
+permalink: /e14p/resources
 ---
 
 Hello Resources!
