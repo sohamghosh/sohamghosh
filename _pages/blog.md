@@ -6,6 +6,8 @@ permalink: /blog
 
 **Entrepreneurship:**
 
+[Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports](https://www.amazon.com/Financial-Statements-Step-Step-Understanding-ebook/dp/B004GGU342)
+
 [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O)
 
 [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.amazon.com/Myth-Revisited-Small-Businesses-About-ebook/dp/B000RO9VJK)
@@ -16,8 +18,6 @@ permalink: /blog
 **Capital Allocation:**
 
 [The Warren Buffett Way](https://www.amazon.com/Warren-Buffett-Way-Robert-Hagstrom-ebook/dp/B00FAMMZN8)
-
-[Rich Dad Poor Dad: What The Rich Teach Their Kids About Money](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle-ebook/dp/B0175P82RA)
 
 
 **Economics:**
