@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Soham Ghosh
+permalink: /
 ---
 
-Soham Ghosh is one of the promoters-directors of the civil-works contracting company, [AK Ghosh and Sons Infrastructure Pvt. Ltd](http://infra.akgsons.com). 
+Soham Ghosh is one of the promoter-directors of the civil-works contracting company, [AK Ghosh and Sons Infrastructure Pvt. Ltd](http://infra.akgsons.com). 
 
 Prior to joining the infrastructure industry, he had worked in the information technology industry for 11 years. 
 
